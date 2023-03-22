@@ -12,7 +12,7 @@
     "remote",
     "uploader"
   ],
-  "website": "kalanakt.github.io/projects/telegram/all-url-uploader ",
+  "website": "https://github.com/NXT-DEVs/All-Url-Uploader",
   "repository": "https://github.com/NXT-DEVs/All-Url-Uploader",
   "env": {
     "WEBHOOK": {
@@ -54,7 +54,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "eco"
+      "size": "Eco"
     }
   }
 }
